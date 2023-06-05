@@ -3,3 +3,8 @@
 body{
     font-family: 'Quicksand', sans-serif;
 }
+
+canvas{
+    border: 1px solid black;
+    background-color: aquamarine;
+}
